@@ -1,0 +1,9 @@
+.diffins {
+    background-color: green;
+    color: lightgray;
+}
+
+.diffdel {
+    background-color: red;
+    color: lightgray;
+}
