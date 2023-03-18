@@ -1,4 +1,5 @@
 #News Portal - Client Management System
+
 News Portal is a powerful content management system designed for news websites. With an easy-to-use interface, journalists and editors can easily create, manage, and publish news articles, photos, and videos.
 
 This news portal is highly customizable and scalable. It also has a responsive design, ensuring that the website looks great on any device.
@@ -6,6 +7,7 @@ This news portal is highly customizable and scalable. It also has a responsive d
 Some key features of News Portal include:
 
 1)User-friendly interface for content creation and management
+
 2)Support for multimedia content such as photos and videos
 3)Search functionality for users to find specific articles
 4)Categories and tags to help organize content
