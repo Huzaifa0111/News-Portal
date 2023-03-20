@@ -43,7 +43,7 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 
 
 # Posts: Admin screenshot
-![Posts: Admin screenshot](sample_1.png)
+![Sample Imaget](sample_1.png)
 
 
 # Posts: User-end (home page) screenshot
