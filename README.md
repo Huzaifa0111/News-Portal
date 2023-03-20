@@ -47,11 +47,11 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 
 
 # Posts: User-end (home page) screenshot
-
+![Posts: User-end (home page) screenshot](Screenshots/sample_2.png)
 
 
 # Posts: User-end (article) screenshot
-
+![Posts: User-end (article) screenshot](Screenshots/sample_3.png)
 
 
 # Post Editing Transparency
@@ -69,11 +69,10 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 
 
 # Post Editing Transparency: Screenshots
+![Post Editing Transparency: Screenshots](Screenshots/sample_4.png)
 
 
-
-# Post Editing Transparency: Screenshots
-
+![Post Editing Transparency: Screenshots](Screenshots/sample_5.png)
 
 
 # Comments System
@@ -92,10 +91,11 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 
 
 # Comments System: User-end Screenshot
-
+![Comments System: User-end Screenshot](Screenshots/sample_6.png)
 
 
 # Comments System: Admin-end screenshot
+![Comments System: Admin-end screenshot](Screenshots/sample_7.png)
 
 
 
@@ -114,7 +114,7 @@ CategoryId is from the table tblcategory.
 
 
 # Categories: Admin-end screenshot
-
+![Categories: Admin-end screenshot](Screenshots/sample_8.png)
 
 
 # Pages
@@ -134,11 +134,11 @@ CategoryId is from the table tblcategory.
 
 
 # Pages: User-end screenshot
-
+![Categories: Admin-end screenshot](Screenshots/sample_9.png)
 
 
 # Pages: Admin screenshot
-
+![Categories: Admin-end screenshot](Screenshots/sample_10.png)
 
 
 # Admin Panel
@@ -148,6 +148,7 @@ CategoryId is from the table tblcategory.
 
 
 # Admin Panel: Dashboard
+![Categories: Admin-end screenshot](Screenshots/sample_11.png)
 
 
 
