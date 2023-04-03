@@ -1,0 +1,14 @@
+*.backup 
+.vscode/launch.json
+
+# PHP
+*.log
+*.sql
+*.sqlite
+
+# HTML
+*.html~
+
+# CSS
+*.css.map
+*.scss.cache
