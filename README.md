@@ -42,16 +42,16 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 ●	On the user-end, these are displayed in a Bootstrap Card layout as title, image and then, description.
 
 
-# Posts: Admin screenshot
-![Posts: Admin screenshot](Screenshots/sample_1.png)
+# Posts: Admin
+![Posts: Admin ](https://user-images.githubusercontent.com/87111556/230735737-65307a49-c8cf-4d5b-81b3-f343cfeec3c1.png)
 
 
-# Posts: User-end (home page) screenshot
-![Posts: User-end (home page) screenshot](Screenshots/sample_2.png)
+# Posts: User-end (home page)
+![sample_2](https://user-images.githubusercontent.com/87111556/230735754-97434ea5-ae8f-45ad-8515-34fa8a46308d.png)
 
 
 # Posts: User-end (article) screenshot
-![Posts: User-end (article) screenshot](Screenshots/sample_3.png)
+![Posts: User-end (article)](https://user-images.githubusercontent.com/87111556/230735834-5b869c0d-8e13-4e23-a271-cd3a8f5252f2.png)
 
 
 # Post Editing Transparency
@@ -69,11 +69,9 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 
 
 # Post Editing Transparency: Screenshots
-![Post Editing Transparency: Screenshots](Screenshots/sample_4.png)
+![Post Editing Transparency](https://user-images.githubusercontent.com/87111556/230735858-8b7be02c-7c61-4a1b-85d8-e2355b878164.png)
 
-
-![Post Editing Transparency: Screenshots](Screenshots/sample_5.png)
-
+![Post Editing Transparency:](https://user-images.githubusercontent.com/87111556/230735890-47c943b0-7513-404b-bb97-8b6ca66e4194.png)
 
 # Comments System
 ●	Readers are allowed to comment on each posts.
@@ -90,13 +88,12 @@ So, whether you're a seasoned pro or just starting out, News Portal has everythi
 ●	Bootstrap Cards are used to display comments if status is 1.
 
 
-# Comments System: User-end Screenshot
-![Comments System: User-end Screenshot](Screenshots/sample_6.png)
+# Comments System: User-end
+![Comments System: User-end](https://user-images.githubusercontent.com/87111556/230735921-d38d0ab0-6adf-4577-9dac-414821aad014.png)
 
 
-# Comments System: Admin-end screenshot
-![Comments System: Admin-end screenshot](Screenshots/sample_7.png)
-
+# Comments System: Admin-end
+![Comments System: Admin-end](https://user-images.githubusercontent.com/87111556/230735960-7dc956ca-bdcb-40e0-a372-a74e042f9007.png)
 
 
 # Categories
@@ -113,8 +110,8 @@ CategoryId is from the table tblcategory.
 ●	On the admin end, it is a powerful tool that can be used to delete or hide an entire set of posts, can be used for internal organization of data, etc.
 
 
-# Categories: Admin-end screenshot
-![Categories: Admin-end screenshot](Screenshots/sample_8.png)
+# Categories: Admin-end 
+![Categories: Admin-end](https://user-images.githubusercontent.com/87111556/230735987-822396c9-312d-42c9-9b74-3763a158142a.png)
 
 
 # Pages
@@ -133,12 +130,12 @@ CategoryId is from the table tblcategory.
 ●	Pages are still adaptive but do not have boundary elements.
 
 
-# Pages: User-end screenshot
-![Categories: Admin-end screenshot](Screenshots/sample_9.png)
+# Pages: User-end 
+![Categories: Admin-end](https://user-images.githubusercontent.com/87111556/230736022-09751588-ca30-4521-8a97-94d3a0328d3e.png)
 
 
-# Pages: Admin screenshot
-![Categories: Admin-end screenshot](Screenshots/sample_10.png)
+# Pages: Admin
+![Categories: Admin-end](https://user-images.githubusercontent.com/87111556/230736045-23f59494-0b92-4c7a-b12b-5aeb51d48b7c.png)
 
 
 # Admin Panel
@@ -148,7 +145,8 @@ CategoryId is from the table tblcategory.
 
 
 # Admin Panel: Dashboard
-![Categories: Admin-end screenshot](Screenshots/sample_11.png)
+![Categories: Admin-end](https://user-images.githubusercontent.com/87111556/230736069-ad99a893-37f2-4111-a0e7-dbe3cbae1f1e.png)
+
 
 
 
